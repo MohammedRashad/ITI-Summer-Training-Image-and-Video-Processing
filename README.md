@@ -1,6 +1,9 @@
 # ITI Summer Training Image and Video Processing
 Lectures, Code, and Assignment for an 8-lecture course I delivered at ITI Alexandria Branch - August 2022
 
+# Course Objective 
+
+Intensive Training to introduce senior undergraduate students to Image and Video Processing techniques
 
 # Lectures 
 - Lecture 1 : Introduction to Computer Vision & Image Processing
